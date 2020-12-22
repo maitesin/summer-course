@@ -34,9 +34,17 @@ Summer course intended to teach the basics of how computer works
 
 ## Binary Representation
 
+* Two's completement (Complemento a 2)
+
 ## Operating Systems and Applications (Sistemas Operativos y Aplicaciones)
 
 ## Internet
 
+* MAC Address
+* IP Address
+* DNS
+
 ## Information Security (Seguridad de la Informacion)
+
+* VPN
 
