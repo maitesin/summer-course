@@ -1,6 +1,8 @@
 # Summer Course (Curso de verano)
 
 Summer course intended to teach the basics of how a computer works
+---
+Curso de verano para la enseñanza de los conceptos básicos de cómo funciona un ordenador
 
 ## Computer parts (Componentes de un ordenador)
 
@@ -33,7 +35,7 @@ Summer course intended to teach the basics of how a computer works
 * Truth Tables (Tablas de Verdad)
 * De Morgan's Laws (Leyes de De Morgan)
 
-## Binary Representation (Representacion de numeros en binario)
+## Binary Representation (Representación de numeros en binario)
 
 * Base 2 numbers (Numeros en base 2)
 
@@ -54,7 +56,7 @@ Summer course intended to teach the basics of how a computer works
 * HTTPS
 * FTP
 
-## Information Security (Seguridad de la Informacion)
+## Information Security (Seguridad de la Información)
 
 * VPN
 * Dangers of Open Networks (Peligros de las redes abiertas)
