@@ -1,10 +1,8 @@
 # Summer Course (Curso de verano)
 
-Summer course intended to teach the basics of how computer works
+Summer course intended to teach the basics of how a computer works
 
-## Hardware
-
-### Computer parts (Componentes de un ordenador)
+## Computer parts (Componentes de un ordenador)
 
 * Motherboard (Placa base)
 * Processor (Procesador)
@@ -18,13 +16,13 @@ Summer course intended to teach the basics of how computer works
  * Mouse (Raton)
  * Periferals (Perifericos)
 
-### Build a computer from scratch (Montaje de un ordenador desde cero)
+## Build a computer from scratch (Montaje de un ordenador desde cero)
 
 * Identify computer parts (Identificar componentes de un ordenador)
 * Assemble the computer (Montaje del ordenador)
 * BIOS/UEFI configuration (Configuracion de la BIOS/UEFI)
 
-### System on a Chip (SoC) computers (Ordenadores en un solo chip)
+## System on a Chip (SoC) computers (Ordenadores en un solo chip)
 
 * Raspberry Pi
 * Smartphone (Telefono inteligente)
@@ -42,6 +40,7 @@ Summer course intended to teach the basics of how computer works
 ## Operating Systems and Applications (Sistemas Operativos y Aplicaciones)
 
 * Differences between OS and Apps (Diferencias entre Sistemas Operativos y Aplicaciones)
+* Differences between HDDs and Partitions (Diferencias entre discos duros y Particiones)
 * Installation of the OS (Instalacion del Sistema Operativo)
 * Set up of the OS (Configuracion del Sistema Operativo)
 * Installation of Apps (Instalacion de Aplicaciones)
@@ -58,5 +57,5 @@ Summer course intended to teach the basics of how computer works
 ## Information Security (Seguridad de la Informacion)
 
 * VPN
-* Open Networks (Redes abiertas)
+* Dangers of Open Networks (Peligros de las redes abiertas)
 
