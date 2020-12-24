@@ -11,12 +11,12 @@ Curso de verano para la enseñanza de los conceptos básicos de cómo funciona u
 * RAM (Memoria RAM)
 * Hard Drive (Disco Duro)
 * Solid State Drive (SSD)
-* Graphics Card (Tarjeta Grafica)
+* Graphics Card (Tarjeta Gráfica)
 * I/O Devices (Dispositivos de Entrada/Salida)
  * Screen Monitor (Pantalla de ordenador)
  * Keyboard (Teclado)
- * Mouse (Raton)
- * Periferals (Perifericos)
+ * Mouse (Ratón)
+ * Periferals (Periféricos)
 
 ## Build a computer from scratch (Montaje de un ordenador desde cero)
 
