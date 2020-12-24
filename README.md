@@ -21,29 +21,30 @@ Summer course intended to teach the basics of how computer works
 ### Build a computer from scratch (Montaje de un ordenador desde cero)
 
 * Identify computer parts (Identificar componentes de un ordenador)
+* Assemble the computer (Montaje del ordenador)
+* BIOS/UEFI configuration (Configuracion de la BIOS/UEFI)
 
-### System on a Chip (SoC) computers
+### System on a Chip (SoC) computers (Ordenadores en un solo chip)
 
 * Raspberry Pi
-* Beagle
-* Phone
+* Smartphone (Telefono inteligente)
 
-## Logic
+## Logic (Logica)
 
 * Logic Operations (Operaciones Logicas)
 * Truth Tables (Tablas de Verdad)
 * De Morgan's Laws (Leyes de De Morgan)
 
-## Binary Representation
+## Binary Representation (Representacion de numeros en binario)
 
 * Base 2 numbers (Numeros en base 2)
 
 ## Operating Systems and Applications (Sistemas Operativos y Aplicaciones)
 
-* Differences between OS and Apps (Diferencias entre Sistemas Operativos y Applicaciones)
+* Differences between OS and Apps (Diferencias entre Sistemas Operativos y Aplicaciones)
 * Installation of the OS (Instalacion del Sistema Operativo)
-* 
-* 
+* Set up of the OS (Configuracion del Sistema Operativo)
+* Installation of Apps (Instalacion de Aplicaciones)
 
 ## Internet
 
