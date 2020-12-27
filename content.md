@@ -4,6 +4,8 @@ author: [Oscar Forner]
 date: "2020-12-27"
 keywords: [course, computer, basics]
 
+toc-own-page: true
+
 titlepage: true
 titlepage: true,
 titlepage-text-color: "FFFFFF"

@@ -1,5 +1,5 @@
 all: content.md
-	pandoc content.md -o content.pdf --template eisvogel
+	pandoc --toc content.md -o content.pdf --template eisvogel
 
 clean:
 	rm content.pdf
