@@ -1,7 +1,7 @@
 # Summer Course (Curso de verano)
 
 Summer course intended to teach the basics of how a computer works
----
+
 Curso de verano para la enseñanza de los conceptos básicos de cómo funciona un ordenador
 
 ## Computer parts (Componentes de un ordenador)
@@ -13,10 +13,10 @@ Curso de verano para la enseñanza de los conceptos básicos de cómo funciona u
 * Solid State Drive (SSD)
 * Graphics Card (Tarjeta Gráfica)
 * I/O Devices (Dispositivos de Entrada/Salida)
- * Screen Monitor (Pantalla de ordenador)
- * Keyboard (Teclado)
- * Mouse (Ratón)
- * Periferals (Periféricos)
+  * Screen Monitor (Pantalla de ordenador)
+  * Keyboard (Teclado)
+  * Mouse (Ratón)
+  * Periferals (Periféricos)
 
 ## Build a computer from scratch (Montaje de un ordenador desde cero)
 
