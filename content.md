@@ -1,10 +1,15 @@
 ---
 title: "Computer Basics 101"
-titlepage: true
 author: [Oscar Forner]
 date: "2020-12-27"
 keywords: [course, computer, basics]
-book: true
+
+titlepage: true
+titlepage: true,
+titlepage-text-color: "FFFFFF"
+titlepage-rule-color: "360049"
+titlepage-rule-height: 0
+titlepage-background: "background.pdf"
 ---
 
 # Computer parts
