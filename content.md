@@ -91,7 +91,7 @@ titlepage-background: "background.pdf"
 
 ## HTTP(S)
 
-## FTP
+## (S)FTP
 
 # Information Security
 
