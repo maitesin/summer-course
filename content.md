@@ -1,6 +1,7 @@
 ---
 title: "Computer Basics 101"
-author: [Oscar Forner]
+subtitle: "An introduction to computers"
+author: [Oscar Forner Martinez]
 date: "2020-12-27"
 keywords: [course, computer, basics]
 
@@ -15,4 +16,27 @@ titlepage-background: "background.pdf"
 ---
 
 # Computer parts
-## Something else
+
+## Processor
+
+## Motherboard
+
+## RAM
+
+## Storage
+
+### Hard Disk Drive (HDD)
+
+### Solid State Drive (SSD)
+
+## Graphics Card
+
+## I/O Devices
+
+### Screen Monitor
+
+### Keyboard
+
+### Mouse
+
+### Periferals
