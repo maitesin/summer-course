@@ -40,3 +40,61 @@ titlepage-background: "background.pdf"
 ### Mouse
 
 ### Periferals
+
+# Build a computer from scratch 
+
+## BIOS/UEFI
+
+## HDDs and Partitions
+
+## Installation of the OS
+
+## Set up of the OS
+
+## Installation of Apps
+
+# System on a Chip (SoC)
+
+## Raspberry Pi
+
+## Smartphone
+
+# Logic
+
+## Logic Operations
+
+### AND
+
+### OR
+
+### NOT
+
+### XOR
+
+### NAND
+
+### NOR
+
+## Truth Tables
+
+## De Morgan's Laws
+
+# Binary Representation
+
+# Internet
+
+## MAC Address
+
+## IP Address
+
+## DNS
+
+## HTTP(S)
+
+## FTP
+
+# Information Security
+
+## VPN
+
+## Dangers of Open Networks
