@@ -79,7 +79,13 @@ titlepage-background: "background.pdf"
 
 ## De Morgan's Laws
 
-# Binary Representation
+# Numeral Systems
+
+## Binary
+
+## Octal
+
+## Hexadecimal
 
 # Internet
 
