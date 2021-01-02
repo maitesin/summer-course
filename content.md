@@ -41,6 +41,14 @@ titlepage-background: "background.pdf"
 
 ### Periferals
 
+# Operating Systems
+
+## Windows
+
+## Mac OS
+
+## GNU/Linux
+
 # Build a computer from scratch 
 
 ## BIOS/UEFI
@@ -104,3 +112,5 @@ titlepage-background: "background.pdf"
 ## VPN
 
 ## Dangers of Open Networks
+
+## Backup strategies
