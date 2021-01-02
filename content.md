@@ -15,6 +15,16 @@ titlepage-rule-height: 0
 titlepage-background: "background.pdf"
 ---
 
+# Information Representation
+
+## Numeral Systems
+
+### Binary
+
+### Octal
+
+### Hexadecimal
+
 # Computer parts
 
 ## Processor
@@ -87,13 +97,6 @@ titlepage-background: "background.pdf"
 
 ## De Morgan's Laws
 
-# Numeral Systems
-
-## Binary
-
-## Octal
-
-## Hexadecimal
 
 # Internet
 
