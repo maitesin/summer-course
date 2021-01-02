@@ -5,6 +5,7 @@ author: [Oscar Forner Martinez]
 date: "2020-12-27"
 keywords: [course, computer, basics]
 
+book: true
 toc-own-page: true
 
 titlepage: true
