@@ -1,8 +1,7 @@
 ---
-title: "Computer Basics 101"
+title: "Computer Basics"
 subtitle: "An introduction to computers"
 author: [Oscar Forner Martinez]
-date: "2020-12-27"
 keywords: [course, computer, basics]
 
 book: true
