@@ -32,6 +32,15 @@ titlepage-background: "background.pdf"
 
 ## SI Prefixes
 
+| Prefix Name | Prefix Symbol | Base 10 |
+|:-:|:-:|:-:|
+| kilo | K | 10^3 |
+| mega | M | 10^6 |
+| giga | G | 10^9 |
+| tera | T | 10^12 |
+| peta | P | 10^15 |
+| exa | E | 10^18 |
+
 # Logic
 
 ## Logic Operations
@@ -88,16 +97,25 @@ titlepage-background: "background.pdf"
 | 1 | 0 | 0 |
 | 1 | 1 | 0 |
 
-## Truth Tables
-
-| A | B | C |
-|---|---|---|
-|   |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-
 ## De Morgan's Laws
+
+### Negation of disjunction
+
+| A | B | ~(A \| B) | ~A | ~B | ~A & ~B |
+|:-:|:-:|:-:|:-:|:-:|:-:|
+| 0 | 0 | 1 | 1 | 1 | 1 |
+| 0 | 1 | 0 | 1 | 0 | 0 |
+| 1 | 0 | 0 | 0 | 1 | 0 |
+| 1 | 1 | 0 | 0 | 0 | 0 |
+
+### Negation of conjunction
+
+| A | B | ~(A & B) | ~A | ~B | ~A \| ~B |
+|:-:|:-:|:-:|:-:|:-:|:-:|
+| 0 | 0 | 1 | 1 | 1 | 1 |
+| 0 | 1 | 1 | 1 | 0 | 1 |
+| 1 | 0 | 1 | 0 | 1 | 1 |
+| 1 | 1 | 0 | 0 | 0 | 0 |
 
 # Computer parts
 
