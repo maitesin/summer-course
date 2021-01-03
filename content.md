@@ -26,6 +26,26 @@ titlepage-background: "background.pdf"
 
 ### Hexadecimal
 
+# Logic
+
+## Logic Operations
+
+### AND
+
+### OR
+
+### NOT
+
+### XOR
+
+### NAND
+
+### NOR
+
+## Truth Tables
+
+## De Morgan's Laws
+
 # Computer parts
 
 ## Processor
@@ -85,26 +105,6 @@ titlepage-background: "background.pdf"
 ## Raspberry Pi
 
 ## Smartphone
-
-# Logic
-
-## Logic Operations
-
-### AND
-
-### OR
-
-### NOT
-
-### XOR
-
-### NAND
-
-### NOR
-
-## Truth Tables
-
-## De Morgan's Laws
 
 # Internet
 
