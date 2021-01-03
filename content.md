@@ -38,7 +38,15 @@ titlepage-background: "background.pdf"
 
 ### Hard Disk Drive (HDD)
 
+#### IDE
+
+#### SATA
+
 ### Solid State Drive (SSD)
+
+#### SATA
+
+#### PCI
 
 ## Graphics Card
 
@@ -97,7 +105,6 @@ titlepage-background: "background.pdf"
 ## Truth Tables
 
 ## De Morgan's Laws
-
 
 # Internet
 
