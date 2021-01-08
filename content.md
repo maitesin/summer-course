@@ -181,6 +181,10 @@ The processor is the brain of the computer. It can have multiple cores and handl
 
 ## Smartphone
 
+## Smart TV
+
+## IoT
+
 # Internet
 
 ## MAC Address
