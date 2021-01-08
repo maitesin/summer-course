@@ -119,6 +119,11 @@ titlepage-background: "background.pdf"
 # Computer parts
 
 ## Processor
+The processor is the brain of the computer. It can have multiple cores and handle even more threads. The speed of a processor is measured in Hertz (Hz).
+
+### Cores
+
+### Threads
 
 ## Motherboard
 
