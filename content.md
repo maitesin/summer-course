@@ -145,6 +145,10 @@ The processor is the brain of the computer. It can have multiple cores and handl
 
 ## Graphics Card
 
+### Integrated
+
+### Dedicated
+
 ## I/O Devices
 
 ### Screen Monitor
