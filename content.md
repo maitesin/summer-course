@@ -201,6 +201,14 @@ The processor is the brain of the computer. It can have multiple cores and handl
 
 ## (S)FTP
 
+## Cloud
+
+### Amazon Web Services (AWS)
+
+### Google Cloud Computing (GCC)
+
+### Microsoft Azure
+
 # Information Security
 
 ## VPN
