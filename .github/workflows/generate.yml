@@ -1,0 +1,24 @@
+name: Generate PDFs
+on: [push]
+
+jobs:
+  test:
+    name: Generate PDFs
+    runs-on: Ubuntu-20.04
+    steps:
+      - name: Install dependencies
+        run: \
+        sudo apt install -y pandoc texlive-latex-extra texlive-latex-recommended texlive-font-utils texlive-fonts-extra \
+        sudo apt install -y npm \
+        sudo npm install --global mermaid-filter
+      - name: Checkout summer course sources
+        uses: actions/checkout@v1
+      - name: Build PDFs
+        run: make ci
+      - name: Artifact the PDFs
+        uses: actions/upload-artifact@v2
+        with:
+          name: summer-course
+          path: (printable|ebook).pdf
+
+
