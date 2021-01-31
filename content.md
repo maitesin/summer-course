@@ -1,6 +1,6 @@
 ---
 title: "Computer Basics"
-subtitle: "An introduction to computers"
+subtitle: "An introduction to how computers work"
 author: [Oscar Forner Martinez]
 keywords: [course, computer, basics]
 
