@@ -8,11 +8,11 @@ jobs:
     steps:
       - name: Install dependencies
         run: |
-          sudo apt install -y pandoc texlive-latex-extra texlive-latex-recommended texlive-font-utils texlive-fonts-extra && sudo apt install -y npm && PUPPETEER_SKIP_DOWNLOAD=true sudo npm install --global mermaid-filter
+          sudo apt install -y pandoc texlive-latex-extra texlive-latex-recommended texlive-font-utils texlive-fonts-extra
       - name: Checkout summer course sources
         uses: actions/checkout@v1
       - name: Build PDFs
-        run: make ci
+        run: make ebook deadtree
       - name: Artifact the PDFs
         uses: actions/upload-artifact@v2
         with:
