@@ -28,6 +28,8 @@ In order for the send and recipient to communicate the message have to be codifi
 
 ## Numeral Systems
 
+### Decimal
+
 ### Binary
 
 ### Octal
