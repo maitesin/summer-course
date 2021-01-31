@@ -20,6 +20,9 @@ jobs:
         uses: actions/upload-artifact@v2
         with:
           name: summer-course
-          path: (printable|ebook).pdf
+          path: |
+            printable.pdf
+            ebook.pdf
+            !background.pdf
 
 
