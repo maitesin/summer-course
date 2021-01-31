@@ -7,10 +7,8 @@ jobs:
     runs-on: Ubuntu-20.04
     steps:
       - name: Install dependencies
-        run: \
-        sudo apt install -y pandoc texlive-latex-extra texlive-latex-recommended texlive-font-utils texlive-fonts-extra \
-        sudo apt install -y npm \
-        sudo npm install --global mermaid-filter
+        run: |
+          sudo apt install -y pandoc texlive-latex-extra texlive-latex-recommended texlive-font-utils texlive-fonts-extra && sudo apt install -y npm && sudo npm install --global mermaid-filter
       - name: Checkout summer course sources
         uses: actions/checkout@v1
       - name: Build PDFs
