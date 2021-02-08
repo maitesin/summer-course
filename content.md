@@ -23,6 +23,7 @@ In order for the send and recipient to communicate the message have to be codifi
 ## Numeral Systems
 
 ### Decimal
+Decimal is the most commonly used numeral system. It is the one you have been using at school and your daily life. The symbols used in the decimal system start from 0 and go until 9.
 
 ### Binary
 
