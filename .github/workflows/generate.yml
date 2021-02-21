@@ -11,7 +11,7 @@ jobs:
           sudo apt install -y pandoc texlive-latex-extra texlive-latex-recommended texlive-font-utils texlive-fonts-extra curl
       - name: Download pandoc template
         run: |
-          mkdir -p ~/.pandoc/templates && curl -o ~/.pandoc/templates/eisvogel.latex https://raw.githubusercontent.com/Wandmalfarbe/pandoc-latex-template/master/eisvogel.tex
+          mkdir -p ~/.pandoc/templates && curl -o ~/.pandoc/templates/eisvogel.latex https://raw.githubusercontent.com/maitesin/dot-files/master/pandoc/eisvogel.latex
       - name: Checkout summer course sources
         uses: actions/checkout@v1
       - name: Build PDFs
