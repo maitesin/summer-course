@@ -22,14 +22,26 @@ In order for the send and recipient to communicate the message have to be codifi
 
 ## Numeral Systems
 
-### Decimal
+### Decimal (Base 10)
 Decimal is the most commonly used numeral system. It is the one you have been using at school and your daily life. The symbols used in the decimal system start from 0 and go until 9.
 
-### Binary
+### Binary (Base 2)
+Binary is the numeral system used by computers. The symbols used in the binary system are 0 and 1. You can think about it as a light switch, it only has two possible positions.
 
-### Octal
+| Base 10 | Base 2 |
+|:-:|:-:|
+| 0 | 0 |
+| 1 | 1 |
+| 2 | 10 |
+| 3 | 11 |
+| 4 | 100 |
+| 5 | 101 |
+| 6 | 110 |
+| 7 | 111 |
 
-### Hexadecimal
+### Octal (Base 8)
+
+### Hexadecimal (Base 16)
 
 ## ASCII
 
