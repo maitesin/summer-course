@@ -23,6 +23,5 @@ jobs:
           path: |
             printable.pdf
             ebook.pdf
-            !background.pdf
 
 
