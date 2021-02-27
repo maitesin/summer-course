@@ -39,6 +39,19 @@ Binary is the numeral system used by computers. The symbols used in the binary s
 | 6 | 110 |
 | 7 | 111 |
 
+#### Convertion from Binary to Decimal
+The easiest way to convert a number from binary to its decimal representation is by writing down the power of 2 based on its position moving from right to left. For example, the number `101010` would have the following representation in powers of 2.
+
+| Powers of 2 | 2^5 | 2^4 | 2^3 | 2^2 | 2^1 | 2^0 |
+|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+| Powers of 2 | 32 | 16 | 8 | 4 | 2 | 1 |
+| Binary number | 1 | 0 | 1 | 0 | 1 | 0 |
+| Binary number matches | 32 | 0 | 8 | 0 | 2 | 0 |
+
+The last step left is to sum up all the powers of 2 that matches with a position that has a 1 in the binary form. Therefore, the number `101010` in binary has the decimal representation of `42`.
+
+#### Convertion from Decimal to Binary
+
 ### Octal (Base 8)
 
 ### Hexadecimal (Base 16)
