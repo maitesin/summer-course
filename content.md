@@ -26,7 +26,7 @@ In order for the send and recipient to communicate the message have to be codifi
 Decimal is the most commonly used numeral system. It is the one you have been using at school and your daily life. The symbols used in the decimal system start from 0 and go until 9.
 
 ### Binary (Base 2)
-Binary is the numeral system used by computers. The symbols used in the binary system are 0 and 1. You can think about it as a light switch, it only has two possible positions.
+Binary is the numeral system used by computers. The symbols used in the binary system are 0 and 1. You can think about it as a light switch, it only has two possible positions. Each one of the characters of the binary representation is called a *bit*.
 
 | Base 10 | Base 2 |
 |:-:|:-:|
@@ -65,6 +65,7 @@ In order to go from the decimal representation to the binary one, the only opera
 Now, starting from the last remainder and going back up the chain you obtain the representation of `101010`.
 
 ### Octal (Base 8)
+Octal is an important representation because *a group of 8 bits is a byte*, it also helps that it is easier to remember `252` than `10101010`.
 
 ### Hexadecimal (Base 16)
 
