@@ -51,6 +51,18 @@ The easiest way to convert a number from binary to its decimal representation is
 The last step left is to sum up all the powers of 2 that matches with a position that has a 1 in the binary form. Therefore, the number `101010` in binary has the decimal representation of `42`.
 
 #### Convertion from Decimal to Binary
+In order to go from the decimal representation to the binary one, the only operation needed it's to divide the number by 2 over and over until the number is 1. Then you need to look at the list of remainders from the division starting from the last division to the first. For example, take number `42` in decimal and perform the divisions.
+
+| Division | Remainder |
+|:-:|:-:|
+| 42 / 2 = 21 | 0 |
+| 21 / 2 = 10 | 1 |
+| 10 / 2 = 5 | 0 |
+| 5 / 2 = 2 | 1 |
+| 2 / 2 = 1 | 0 |
+| 1 | 1 |
+
+Now, starting from the last remainder and going back up the chain you obtain the representation of `101010`.
 
 ### Octal (Base 8)
 
