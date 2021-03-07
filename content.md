@@ -65,9 +65,52 @@ In order to go from the decimal representation to the binary one, the only opera
 Now, starting from the last remainder and going back up the chain you obtain the representation of `101010`.
 
 ### Octal (Base 8)
-Octal is an important representation because *a group of 8 bits is a byte*, it also helps that it is easier to remember `252` than `10101010`.
+Octal is an important representation because *a group of 8 bits is a byte*, it also helps that it is easier to remember `252` than `10101010`. Octal has 8 different glyphs to represent its possible digits, the are from 0 to 7, like in decimal.
+
+| Base 10 | Base 8 |
+|:-:|:-:|
+| 0 | 0 |
+| 1 | 1 |
+| 2 | 2 |
+| 3 | 3 |
+| 4 | 4 |
+| 5 | 5 |
+| 6 | 6 |
+| 7 | 7 |
+| 8 | 10 |
+| 9 | 11 |
+| 10 | 12 |
+| 11 | 13 |
+| 12 | 14 |
+| 13 | 15 |
+| 14 | 16 |
+| 15 | 17 |
+| 16 | 20 |
 
 ### Hexadecimal (Base 16)
+Since most of the computers today have 64 bits processors it would be hard for humans to remember addresses containing numbers that have a length of 64 digits in binary or 22 digits in octal, but it would be easier with 16 digits in hexadecimal.
+
+Hexadecimal has 16 different glyphs to represent its possible digits, they are from 0 to 9, like in decimal, and the from A to F, like in the alphabet.
+
+| Base 10 | Base 16 |
+|:-:|:-:|
+| 0 | 0 |
+| 1 | 1 |
+| 2 | 2 |
+| 3 | 3 |
+| 4 | 4 |
+| 5 | 5 |
+| 6 | 6 |
+| 7 | 7 |
+| 8 | 8 |
+| 9 | 9 |
+| 10 | A |
+| 11 | B |
+| 12 | C |
+| 13 | D |
+| 14 | E |
+| 15 | F |
+| 16 | 10 |
 
 ## ASCII
 
