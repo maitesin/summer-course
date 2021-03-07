@@ -21,6 +21,7 @@ The study of information representation is one of the parts that constitutes Com
 In order for the send and recipient to communicate the message have to be codified in a format that both can understand. For example, the number four can be represented with the arabic numeral 4 or with the roman numeral IV. If the sender codifies the number four in arabic numerals, but the recipient is expecting the information contained in the message to be in roman numeral the communication will fail.
 
 ## Numeral Systems
+The different numeral systems we are covering in this section, besides binary, are only important from the human perspective. That is because computers only understand binary, but lots of times we have to reference some data encoded in binary and that is when the other numeral systems such as octal and hexadecimal are useful.
 
 ### Decimal (Base 10)
 Decimal is the most commonly used numeral system. It is the one you have been using at school and your daily life. The symbols used in the decimal system start from 0 and go until 9.
@@ -67,25 +68,25 @@ Now, starting from the last remainder and going back up the chain you obtain the
 ### Octal (Base 8)
 Octal is an important representation because *a group of 8 bits is a byte*, it also helps that it is easier to remember `252` than `10101010`. Octal has 8 different glyphs to represent its possible digits, the are from 0 to 7, like in decimal.
 
-| Base 10 | Base 8 |
-|:-:|:-:|
-| 0 | 0 |
-| 1 | 1 |
-| 2 | 2 |
-| 3 | 3 |
-| 4 | 4 |
-| 5 | 5 |
-| 6 | 6 |
-| 7 | 7 |
-| 8 | 10 |
-| 9 | 11 |
-| 10 | 12 |
-| 11 | 13 |
-| 12 | 14 |
-| 13 | 15 |
-| 14 | 16 |
-| 15 | 17 |
-| 16 | 20 |
+| Base 10 | Base 2 | Base 8 |
+|:-:|:-:|:-:|
+| 0 | 0 | 0 |
+| 1 | 1 | 1 |
+| 2 | 10 | 2 |
+| 3 | 11 | 3 |
+| 4 | 100 | 4 |
+| 5 | 101 | 5 |
+| 6 | 110 | 6 |
+| 7 | 111 | 7 |
+| 8 | 1000 | 10 |
+| 9 | 1001 | 11 |
+| 10 | 1010 | 12 |
+| 11 | 1011 | 13 |
+| 12 | 1100 | 14 |
+| 13 | 1101 | 15 |
+| 14 | 1110 | 16 |
+| 15 | 1111 | 17 |
+| 16 | 10000 | 20 |
 
 ### Hexadecimal (Base 16)
 Since most of the computers today have 64 bits processors it would be hard for humans to remember addresses containing numbers that have a length of 64 digits in binary or 22 digits in octal, but it would be easier with 16 digits in hexadecimal.
@@ -113,6 +114,7 @@ Hexadecimal has 16 different glyphs to represent its possible digits, they are f
 | 16 | 10 |
 
 ## ASCII
+
 
 ## Unicode
 
