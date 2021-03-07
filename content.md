@@ -93,25 +93,25 @@ Since most of the computers today have 64 bits processors it would be hard for h
 
 Hexadecimal has 16 different glyphs to represent its possible digits, they are from 0 to 9, like in decimal, and the from A to F, like in the alphabet.
 
-| Base 10 | Base 16 |
-|:-:|:-:|
-| 0 | 0 |
-| 1 | 1 |
-| 2 | 2 |
-| 3 | 3 |
-| 4 | 4 |
-| 5 | 5 |
-| 6 | 6 |
-| 7 | 7 |
-| 8 | 8 |
-| 9 | 9 |
-| 10 | A |
-| 11 | B |
-| 12 | C |
-| 13 | D |
-| 14 | E |
-| 15 | F |
-| 16 | 10 |
+| Base 10 | Base 2 | Base 8 | Base 16 |
+|:-:|:-:|:-:|:-:|:-:|
+| 0 | 0 | 0 | 0 |
+| 1 | 1 | 1 | 1 |
+| 2 | 10 | 2 | 2 |
+| 3 | 11 | 3 | 3 |
+| 4 | 100 | 4 | 4 |
+| 5 | 101 | 5 | 5 |
+| 6 | 110 | 6 | 6 |
+| 7 | 111 | 7 | 7 |
+| 8 | 1000 | 10 | 8 |
+| 9 | 1001 | 11 | 9 |
+| 10 | 1010 | 12 | A |
+| 11 | 1011 | 13 | B |
+| 12 | 1100 | 14 | C |
+| 13 | 1101 | 15 | D |
+| 14 | 1110 | 16 | E |
+| 15 | 1111 | 17 | F |
+| 16 | 10000 | 20 | 10 |
 
 ## ASCII
 
