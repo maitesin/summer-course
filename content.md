@@ -66,7 +66,7 @@ In order to go from the decimal representation to the binary one, the only opera
 Now, starting from the last remainder and going back up the chain you obtain the representation of `101010`.
 
 ### Octal (Base 8)
-Octal is an important representation because *a group of 8 bits is a byte*, it also helps that it is easier to remember `252` than `10101010`. Octal has 8 different glyphs to represent its possible digits, the are from 0 to 7, like in decimal.
+Octal is an important representation because *a group of 8 bits is a byte*, it also helps that it is easier to remember `252` than `10101010`. Octal has 8 different symbols to represent its possible digits, the are from 0 to 7, like in decimal.
 
 | Base 10 | Base 2 | Base 8 |
 |:-:|:-:|:-:|
@@ -91,7 +91,7 @@ Octal is an important representation because *a group of 8 bits is a byte*, it a
 ### Hexadecimal (Base 16)
 Since most of the computers today have 64 bits processors it would be hard for humans to remember addresses containing numbers that have a length of 64 digits in binary or 22 digits in octal, but it would be easier with 16 digits in hexadecimal.
 
-Hexadecimal has 16 different glyphs to represent its possible digits, they are from 0 to 9, like in decimal, and the from A to F, like in the alphabet.
+Hexadecimal has 16 different symbols to represent its possible digits, they are from 0 to 9, like in decimal, and the from A to F, like in the alphabet.
 
 | Base 10 | Base 2 | Base 8 | Base 16 |
 |:-:|:-:|:-:|:-:|:-:|
@@ -114,7 +114,11 @@ Hexadecimal has 16 different glyphs to represent its possible digits, they are f
 | 16 | 10000 | 20 | 10 |
 
 ## ASCII
+As it was explained before, computers only understand binary information, but for them to be useful for humans they need to understand other ways to represent information, such as letters, puntuation symbols, etc. The first approach to accomplish this feat was using the ASCII table.
 
+The ASCII table is a set of symbols that have a unique value of 7 bits assigned to it. That way you can use a bit less than a byte, pun intended, to represent all the english alphabet and other required symbols.
+
+![](img/ascii.png)
 
 ## Unicode
 
