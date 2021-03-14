@@ -120,6 +120,8 @@ The ASCII table is a set of symbols that have a unique value of 7 bits assigned 
 
 ![](img/ascii.png)
 
+Since the ASCII table is limited to only characters of the english alphabet, it does not contain vowels with tildes, and special characters. That was introduced in the *Extended ASCII table*. It uses 8 bits to represent the symbols, that means it actually doubles the amount of symbols contained in the table.
+
 ## Unicode
 
 ## SI Prefixes
@@ -132,6 +134,8 @@ The ASCII table is a set of symbols that have a unique value of 7 bits assigned 
 | tera | T | 10^12 |
 | peta | P | 10^15 |
 | exa | E | 10^18 |
+
+## Exercises
 
 # Logic
 
