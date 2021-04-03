@@ -123,13 +123,17 @@ Hexadecimal has 16 different symbols to represent its possible digits, they are 
 
 ## ASCII
 
-As it was explained before, computers only understand binary information, but for them to be useful for humans they need to understand other ways to represent information, such as letters, puntuation symbols, etc. The first approach to accomplish this feat was using the ASCII table.
+As it was explained before, computers only understand binary information, but for them to be useful for humans they need to understand other ways to represent information, such as letters, puntuation symbols, etc. The first approach to accomplish this feat was using the **American Standard Code for Information Interchange (ASCII) table**.
 
 The ASCII table is a set of symbols that have a unique value of 7 bits assigned to it. That way you can use a bit less than a byte, pun intended, to represent all the english alphabet and other required symbols.
 
 ![](img/ascii.png)
 
-Since the ASCII table is limited to only characters of the english alphabet, it does not contain vowels with tildes, and special characters. That was introduced in the *Extended ASCII table*. It uses 8 bits to represent the symbols, that means it actually doubles the amount of symbols contained in the table.
+### Extended ASCII
+
+Since the ASCII table is limited to only characters of the english alphabet, it does not contain vowels with tildes, and other special characters. They were was introduced in the **Extended ASCII table**. It uses 8 bits to represent the symbols, that means it actually doubles the amount of symbols contained in the table.
+
+![](img/eascii.png)
 
 ## Unicode
 
