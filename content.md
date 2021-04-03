@@ -137,6 +137,10 @@ Since the ASCII table is limited to only characters of the english alphabet, it 
 
 ## Unicode
 
+You now might be tempted to think that we have covered all required characters to write in any language, if you do you would be mistaken. There are lots of languages that uses a different alphabet such as Arabic, Chinese, Hebrew, Japanese, Korean, Russian, and others. Moreover, we also use emojis and they need to be codified in order for the computers to understand it.
+
+The standard that covers all previous alphabets and have room left for future extensions is the Unicode. There are several formats in the Unicode standard, the most common ones are **UTF-8**, **UTF-16**. They use 8 and 16 bits respectively to codify the characters.
+
 ## SI Prefixes
 
 | Prefix Name | Prefix Symbol | Base 10 |
