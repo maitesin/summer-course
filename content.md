@@ -142,6 +142,7 @@ You now might be tempted to think that we have covered all required characters t
 The standard that covers all previous alphabets and have room left for future extensions is the Unicode. There are several formats in the Unicode standard, the most common ones are **UTF-8**, **UTF-16**. They use 8 and 16 bits respectively to codify the characters.
 
 ## SI Prefixes
+Although we have been talking about bites and bytes, when storing big amounts of data they becomes unsustainable to describe the size of the information in them. That is when the Metric's System prefixes become useful.
 
 | Prefix Name | Prefix Symbol | Base 10 |
 |:-:|:-:|:-:|
@@ -151,6 +152,8 @@ The standard that covers all previous alphabets and have room left for future ex
 | tera | T | 10^12 |
 | peta | P | 10^15 |
 | exa | E | 10^18 |
+
+For example, 3000 bytes (or 3000B) can be expressed as 3KB or 5600000B can be also expressed as 5.6MB.
 
 ## Exercises
 
