@@ -157,12 +157,11 @@ For example, 3000 bytes (or 3000B) can be expressed as 3KB or 5600000B can be al
 
 ## Exercises
 
-# Formal System
-A format system is used for inferring theorems from axioms according to a set of rules. These rules, which are used for carrying out the inference of theorems from axioms, are the logical calculus of the formal system. A formal system is essentially an "axiomatic system".
-
-First-order logic, also known as predicate logic, is a collection of formal systems used in mathematics, philosophy, linguistics, and computer science.
+# Boolean algebra
+Boolean algebra is the branch of algebra in which the values of the variables are the truth values true and false, usually denoted 1 and 0, respectively. The main operations of Boolean algebra are the conjunction (and) denoted as ∧, the disjunction (or) denoted as ∨, and the negation (not) denoted as ¬.
 
 ## Logic Operations
+
 
 ### AND (&)
 
