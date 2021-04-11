@@ -157,7 +157,10 @@ For example, 3000 bytes (or 3000B) can be expressed as 3KB or 5600000B can be al
 
 ## Exercises
 
-# Logic
+# Formal System
+A format system is used for inferring theorems from axioms according to a set of rules. These rules, which are used for carrying out the inference of theorems from axioms, are the logical calculus of the formal system. A formal system is essentially an "axiomatic system".
+
+First-order logic, also known as predicate logic, is a collection of formal systems used in mathematics, philosophy, linguistics, and computer science.
 
 ## Logic Operations
 
