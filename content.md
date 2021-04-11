@@ -142,6 +142,7 @@ You now might be tempted to think that we have covered all required characters t
 The standard that covers all previous alphabets and have room left for future extensions is the Unicode. There are several formats in the Unicode standard, the most common ones are **UTF-8**, **UTF-16**. They use 8 and 16 bits respectively to codify the characters.
 
 ## SI Prefixes
+
 Although we have been talking about bites and bytes, when storing big amounts of data they becomes unsustainable to describe the size of the information in them. That is when the Metric's System prefixes become useful.
 
 | Prefix Name | Prefix Symbol | Base 10 |
@@ -158,12 +159,12 @@ For example, 3000 bytes (or 3000B) can be expressed as 3KB or 5600000B can be al
 ## Exercises
 
 # Boolean algebra
-Boolean algebra is the branch of algebra in which the values of the variables are the truth values true and false, usually denoted 1 and 0, respectively. The main operations of Boolean algebra are the conjunction (and) denoted as ∧, the disjunction (or) denoted as ∨, and the negation (not) denoted as ¬.
 
-## Logic Operations
+Boolean algebra is the branch of algebra in which the values of the variables are the truth values true and false, usually denoted 1 and 0, respectively. 
 
+The main operations of Boolean algebra are the conjunction (and) denoted as `&`, the disjunction (or) denoted as `|`, and the negation (not) denoted as `~`.
 
-### AND (&)
+## Conjunction (AND)
 
 | A | B | A & B |
 |:-:|:-:|:-:|
@@ -172,7 +173,7 @@ Boolean algebra is the branch of algebra in which the values of the variables ar
 | 1 | 0 | 0 |
 | 1 | 1 | 1 |
 
-### OR (|)
+## Disjunction (OR)
 
 | A | B | A \| B |
 |:-:|:-:|:-:|
@@ -181,14 +182,14 @@ Boolean algebra is the branch of algebra in which the values of the variables ar
 | 1 | 0 | 1 |
 | 1 | 1 | 1 |
 
-### NOT (~)
+## Negation (NOT)
 
 | A | ~A |
 |:-:|:-:|
 | 0 | 1 |
 | 1 | 0 |
 
-### XOR (^)
+## XOR (^)
 
 | A | B | A ^ B |
 |:-:|:-:|:-:|
@@ -197,7 +198,7 @@ Boolean algebra is the branch of algebra in which the values of the variables ar
 | 1 | 0 | 1 |
 | 1 | 1 | 0 |
 
-### NAND
+## NAND
 
 | A | B | ~(A & B) |
 |:-:|:-:|:-:|
@@ -206,7 +207,7 @@ Boolean algebra is the branch of algebra in which the values of the variables ar
 | 1 | 0 | 1 |
 | 1 | 1 | 0 |
 
-### NOR
+## NOR
 
 | A | B | ~(A \| B) |
 |:-:|:-:|:-:|
