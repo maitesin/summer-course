@@ -166,6 +166,8 @@ The main operations of Boolean algebra are the conjunction (and) denoted as `&`,
 
 ## Conjunction (AND)
 
+![](img/logic/and.png)
+
 | A | B | A & B |
 |:-:|:-:|:-:|
 | 0 | 0 | 0 |
@@ -174,6 +176,8 @@ The main operations of Boolean algebra are the conjunction (and) denoted as `&`,
 | 1 | 1 | 1 |
 
 ## Disjunction (OR)
+
+![](img/logic/or.png)
 
 | A | B | A \| B |
 |:-:|:-:|:-:|
@@ -184,12 +188,16 @@ The main operations of Boolean algebra are the conjunction (and) denoted as `&`,
 
 ## Negation (NOT)
 
+![](img/logic/not.png)
+
 | A | ~A |
 |:-:|:-:|
 | 0 | 1 |
 | 1 | 0 |
 
 ## XOR (^)
+
+![](img/logic/xor.png)
 
 | A | B | A ^ B |
 |:-:|:-:|:-:|
@@ -200,6 +208,8 @@ The main operations of Boolean algebra are the conjunction (and) denoted as `&`,
 
 ## NAND
 
+![](img/logic/nand.png)
+
 | A | B | ~(A & B) |
 |:-:|:-:|:-:|
 | 0 | 0 | 1 |
@@ -208,6 +218,8 @@ The main operations of Boolean algebra are the conjunction (and) denoted as `&`,
 | 1 | 1 | 0 |
 
 ## NOR
+
+![](img/logic/nor.png)
 
 | A | B | ~(A \| B) |
 |:-:|:-:|:-:|
