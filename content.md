@@ -166,9 +166,7 @@ The main operations of Boolean algebra are the conjunction (and) denoted as `&`,
 
 ## Conjunction (AND)
 
-The logical conjunction (and) it is true if and only if all of its operands are true. 
-
-![](img/logic/and.png){ width=20% }
+The logical conjunction (and) it is true if and only if all of its operands are true. The logic gate, circuit, that implements the conjunction is ![](img/logic/and.png){ width=5% }.
 
 | A | B | A & B |
 |:-:|:-:|:-:|
@@ -179,9 +177,7 @@ The logical conjunction (and) it is true if and only if all of its operands are 
 
 ## Disjunction (OR)
 
-The logical disjunction (or) it is true if any of its operands are true.
-
-![](img/logic/or.png){ width=20% }
+The logical disjunction (or) it is true if any of its operands are true. The logic gate, circuit, that implements the disjunction is ![](img/logic/or.png){ width=5% }.
 
 | A | B | A \| B |
 |:-:|:-:|:-:|
@@ -192,9 +188,7 @@ The logical disjunction (or) it is true if any of its operands are true.
 
 ## Complement (NOT)
 
-The logical complement, also called negation, it is true when its operand is false, or it is false when its operand is true.
-
-![](img/logic/not.png){ width=20% }
+The logical complement, also called negation, it is true when its operand is false, or it is false when its operand is true. The logic gate, circuit, that implements the negation is ![](img/logic/not.png){ width=5% }.
 
 | A | ~A |
 |:-:|:-:|
@@ -205,9 +199,7 @@ The logical complement, also called negation, it is true when its operand is fal
 
 ## XOR (^)
 
-The xor, the name comes from eXclusive OR, it is the first operation that it is not part of the main logic operations. It is true when one and only one of its operands it is true.
-
-![](img/logic/xor.png){ width=20% }
+The xor, the name comes from eXclusive OR, it is the first operation that it is not part of the main logic operations. It is true when one and only one of its operands it is true. The logic gate, circuit, that implements the exclusive or is ![](img/logic/xor.png){ width=5% }.
 
 | A | B | A ^ B |
 |:-:|:-:|:-:|
@@ -218,9 +210,7 @@ The xor, the name comes from eXclusive OR, it is the first operation that it is 
 
 ## NAND
 
-The nand, the name comes from Not AND, it is the negation of the conjunction. That means that it is true when not all of its operands are true.
-
-![](img/logic/nand.png){ width=20% }
+The nand, the name comes from Not AND, it is the negation of the conjunction. That means that it is true when not all of its operands are true. The logic gate, circuit, that implements the nand is ![](img/logic/nand.png){ width=5% }.
 
 | A | B | ~(A & B) |
 |:-:|:-:|:-:|
@@ -231,10 +221,7 @@ The nand, the name comes from Not AND, it is the negation of the conjunction. Th
 
 ## NOR
 
-The nor, the name comes from Not OR, it is the negation of the disjunction. That menas that it is true when none of its operands are true.
-
-
-![](img/logic/nor.png){ width=20% }
+The nor, the name comes from Not OR, it is the negation of the disjunction. That menas that it is true when none of its operands are true. The logic gate, circuit, that implements the nor is ![](img/logic/nor.png){ width=5% }.
 
 | A | B | ~(A \| B) |
 |:-:|:-:|:-:|
