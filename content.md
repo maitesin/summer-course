@@ -261,17 +261,25 @@ The rules can be expressed in English as:
 
 # Computer components
 
-The computer is made of several components and each one of them has a very specific role. There are some components that are mandatory for the computer in order for it to run. These are, processor, motherboard, RAM, and power supply.
+The computer is made of several components and each one of them has a very specific role. There are some components that are mandatory for the computer in order for it to run. These are, motherboard, CPU, RAM, and power supply.
 
-## Processor
+Other components such as the graphics card, storage, and input/output devices are optional, but most of them are recommended. 
 
-The processor is the brain of the computer. It can have multiple cores and handle even more threads. The speed of a processor is measured in Hertz (Hz).
+## Motherboard
+
+The motherboard, also called mainboard, is the main printed circuit board (PCB) in general-purpose computers and other expandable systems. It holds and allows communication between many of the crucial electronic components of a system, such as the central processing unit (CPU) and memory, and provides connectors for other peripherals. A motherboard usually contains significant sub-systems, such as the central processor, the chipset's input/output and memory controllers, interface connectors, and other components integrated for general use.
+
+## Central Processing Unit (CPU)
+
+The central processing unit (CPU), also known as processor, is the brain of the computer. It can have multiple cores and handle even more threads. The speed of a processor is measured in Hertz (Hz). The Hertz is the derived unit of frequency in the International System of Units (SI) and is defined as one cycle per second.
+
+The processor is attached to the motherboard
 
 ### Cores
 
-### Threads
 
-## Motherboard
+
+### Threads
 
 ## RAM
 
@@ -297,7 +305,7 @@ The processor is the brain of the computer. It can have multiple cores and handl
 
 ## Power Supply
 
-## I/O Devices
+## Input/Output Devices
 
 ### Screen Monitor
 
