@@ -245,7 +245,14 @@ The nor, the name comes from Not OR, it is the negation of the disjunction. That
 
 ## De Morgan's Laws
 
-### Negation of disjunction
+In Boolean algebra De Morgan's Laws are a pair of transformation rules that are both valid rules of inference. The rules allow the expression of conjunctions and disjunctions purely in terms of each other via negations.
+
+The rules can be expressed in English as:
+
+* The negation of the disjunction is the conjunction of the negations. 
+* The negation of the conjunction is the disjunction of the negations.
+
+### Negation of the disjunction
 
 | A | B | ~(A \| B) | ~A | ~B | ~A & ~B |
 |:-:|:-:|:-:|:-:|:-:|:-:|
@@ -254,7 +261,7 @@ The nor, the name comes from Not OR, it is the negation of the disjunction. That
 | 1 | 0 | 0 | 0 | 1 | 0 |
 | 1 | 1 | 0 | 0 | 0 | 0 |
 
-### Negation of conjunction
+### Negation of the conjunction
 
 | A | B | ~(A & B) | ~A | ~B | ~A \| ~B |
 |:-:|:-:|:-:|:-:|:-:|:-:|
