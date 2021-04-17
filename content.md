@@ -162,9 +162,11 @@ For example, 3000 bytes (or 3000B) can be expressed as 3KB or 5600000B can be al
 
 Boolean algebra is the branch of algebra in which the values of the variables are the truth values true and false, usually denoted 1 and 0, respectively. 
 
-The main operations of Boolean algebra are the conjunction (and) denoted as `&`, the disjunction (or) denoted as `|`, and the negation (not) denoted as `~`.
+The main operations of Boolean algebra are the conjunction (and) denoted as `&`, the disjunction (or) denoted as `|`, and the complement (not) denoted as `~`. These operations are also implemented as circuit components known as gates.
 
 ## Conjunction (AND)
+
+The logical conjunction (and) it is true if and only if all of its operands are true. 
 
 ![](img/logic/and.png){ width=20% }
 
@@ -177,6 +179,8 @@ The main operations of Boolean algebra are the conjunction (and) denoted as `&`,
 
 ## Disjunction (OR)
 
+The logical disjunction (or) it is true if any of its operands are true.
+
 ![](img/logic/or.png){ width=20% }
 
 | A | B | A \| B |
@@ -186,7 +190,9 @@ The main operations of Boolean algebra are the conjunction (and) denoted as `&`,
 | 1 | 0 | 1 |
 | 1 | 1 | 1 |
 
-## Negation (NOT)
+## Complement (NOT)
+
+The logical complement, also called negation, it is true when its operand is false, or it is false when its operand is true.
 
 ![](img/logic/not.png){ width=20% }
 
@@ -195,7 +201,11 @@ The main operations of Boolean algebra are the conjunction (and) denoted as `&`,
 | 0 | 1 |
 | 1 | 0 |
 
+
+
 ## XOR (^)
+
+The xor, the name comes from eXclusive OR, it is the first operation that it is not part of the main logic operations. It is true when one and only one of its operands it is true.
 
 ![](img/logic/xor.png){ width=20% }
 
@@ -208,6 +218,8 @@ The main operations of Boolean algebra are the conjunction (and) denoted as `&`,
 
 ## NAND
 
+The nand, the name comes from Not AND, it is the negation of the conjunction. That means that it is true when not all of its operands are true.
+
 ![](img/logic/nand.png){ width=20% }
 
 | A | B | ~(A & B) |
@@ -218,6 +230,8 @@ The main operations of Boolean algebra are the conjunction (and) denoted as `&`,
 | 1 | 1 | 0 |
 
 ## NOR
+
+The nor, the name comes from Not OR, it is the negation of the disjunction. That menas that it is true when none of its operands are true.
 
 
 ![](img/logic/nor.png){ width=20% }
