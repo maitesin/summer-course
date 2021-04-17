@@ -257,6 +257,8 @@ The rules can be expressed in English as:
 | 1 | 0 | 1 | 0 | 1 | 1 |
 | 1 | 1 | 0 | 0 | 0 | 0 |
 
+## Exercises
+
 # Computer components
 
 The computer is made of several components and each one of them has a very specific role. There are some components that are mandatory for the computer in order for it to run. These are, processor, motherboard, RAM, and power supply.
