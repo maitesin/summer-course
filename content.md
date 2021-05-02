@@ -273,13 +273,11 @@ The motherboard, also called mainboard, is the main printed circuit board (PCB) 
 
 The central processing unit (CPU), also known as processor, is the brain of the computer. It can have multiple cores and handle even more threads. The speed of a processor is measured in Hertz (Hz). The Hertz is the derived unit of frequency in the International System of Units (SI) and is defined as one cycle per second.
 
-The processor is attached to the motherboard
+The processor is attached to the motherboard by its socket. Modern processors are multi-core and multi-threaded with clocks ranging between 3GHz up to 5GHz. Some of them even have a technology called turbo-boost, that allows them to increase their clock for small periods of time when a sudden increase of work happens.
 
-### Cores
+### Multi-core
 
-
-
-### Threads
+### Multi-threaded
 
 ## RAM
 
@@ -323,18 +321,6 @@ The processor is attached to the motherboard
 
 ## GNU/Linux
 
-# Build a computer from scratch 
-
-## BIOS/UEFI
-
-## HDDs and Partitions
-
-## Installation of the OS
-
-## Set up of the OS
-
-## Installation of Apps
-
 # System on a Chip (SoC)
 
 ## Raspberry Pi
@@ -358,12 +344,6 @@ The processor is attached to the motherboard
 ## (S)FTP
 
 ## Cloud
-
-### Amazon Web Services (AWS)
-
-### Google Cloud Computing (GCC)
-
-### Microsoft Azure
 
 # Information Security
 
