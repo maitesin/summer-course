@@ -273,11 +273,19 @@ The motherboard, also called mainboard, is the main printed circuit board (PCB) 
 
 The central processing unit (CPU), also known as processor, is the brain of the computer. It can have multiple cores and handle even more threads. The speed of a processor is measured in Hertz (Hz). The Hertz is the derived unit of frequency in the International System of Units (SI) and is defined as one cycle per second.
 
-The processor is attached to the motherboard by its socket. Modern processors are multi-core and multi-threaded with clocks ranging between 3GHz up to 5GHz. Some of them even have a technology called turbo-boost, that allows them to increase their clock for small periods of time when a sudden increase of work happens.
+The processor is attached to the motherboard by its socket. Modern processors are multi-core and multi-threaded with frequencies ranging between 3GHz up to 5GHz. Some of them even have a technology called turbo-boost, that allows them to increase their frenquency for small periods of time when a sudden increase of work happens.
 
 ### Multi-core
 
+Originally, CPUs were uni-core but as they started to contain more transistors multi-core designs were becoming possible. The main difference between a uni-core and a multi-core processor is that the multi-core contains more than one processing unit in the same die. All of these processing units share the same main memory.
+
+Modern multi-core processors have between 2 up to 32 cores. However, the most common amount of cores in a modern processor is 4. 
+
 ### Multi-threaded
+
+Same as it happened for the multi-core, CPUs started being single-threaded for the same reason as why the multi-core ones appeared. What does it mean for a CPU to be multi-threaded? It means that every core can process more than one stream of work at the same time. But only if they do not use the same resources of the given core.
+
+If you put all these features together you would get a decent picture of a modern CPU. As an example Intel that [i7-11700F](https://www.intel.com/content/www/us/en/products/sku/212280/intel-core-i711700f-processor-16m-cache-up-to-4-90-ghz/specifications.html) has 8 cores with 16 threads and a base frenquency of 2.5GHz and a turbo frenquency of 4.9GHz. Another example would be AMD [Ryzen 7 5800X](https://www.amd.com/en/products/cpu/amd-ryzen-7-5800x) that also has 8 cores with 16 threads but with a base frequency of 3.8GHz and a turbo frequency of 4.7GHz. 
 
 ## RAM
 
