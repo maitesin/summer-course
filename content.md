@@ -293,40 +293,17 @@ Nowadays, the most common type of RAM it is DDR4, followed by the fading DDR3. T
 
 ## Storage
 
-### Hard Disk Drive (HDD)
+There are multiple kinds of storage available, however the most common ones are Hard Disk Drive (HDD), and Solid State Drive (SSD). HDD are mechanical hard drives that can store a lot of information, but their read/write speeds are quite slow. On the contrary, SSD are flash memory based hard drives that can store smaller amounts of information, but their read/write speeds are extreamly fast compared with HDD.
 
+On the one hand, modern HDD drives have read speeds of 80MB/s, and write speeds of 20MB/s. Therefore, they use SATA connections since they have a limit of transfers of up to 300MB/s in the SATA 2.0 standard.
 
-### Solid State Drive (SSD)
-
-#### SATA
-
-#### PCI
+On the other hand, some older SSD drives have read speeds of 600MB/s, and write speeds of 250MB/s. So, they can also use the SATA 3.0 standard. However, modern SSD drives use M.2 connections that allows them to reach read speeds of 3400MB/s, and write speeds of 2500MB/s.
 
 ## Graphics Card
 
 ### Integrated
 
 ### Dedicated
-
-## Power Supply
-
-## Input/Output Devices
-
-### Screen Monitor
-
-### Keyboard
-
-### Mouse
-
-### Periferals
-
-# Operating Systems
-
-## Windows
-
-## Mac OS
-
-## GNU/Linux
 
 # System on a Chip (SoC)
 
@@ -349,8 +326,6 @@ Nowadays, the most common type of RAM it is DDR4, followed by the fading DDR3. T
 ## HTTP(S)
 
 ## (S)FTP
-
-## Cloud
 
 # Information Security
 
