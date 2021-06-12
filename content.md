@@ -160,7 +160,7 @@ For example, 3000 bytes (or 3000B) can be expressed as 3KB or 5600000B can be al
 
 # Boolean algebra
 
-Boolean algebra is the branch of algebra in which the values of the variables are the truth values true and false, usually denoted 1 and 0, respectively. 
+Boolean algebra is the branch of algebra in which the values of the variables are the truth values true and false, usually denoted 1 and 0, respectively.
 
 The main operations of Boolean algebra are the conjunction (and) denoted as `&`, the disjunction (or) denoted as `|`, and the complement (not) denoted as `~`. These operations are also implemented as circuit components known as gates.
 
@@ -194,8 +194,6 @@ The logical complement, also called negation, it is true when its operand is fal
 |:-:|:-:|
 | 0 | 1 |
 | 1 | 0 |
-
-
 
 ## XOR (^)
 
@@ -236,7 +234,7 @@ In Boolean algebra De Morgan's Laws are a pair of transformation rules that are 
 
 The rules can be expressed in English as:
 
-* The negation of the disjunction is the conjunction of the negations. 
+* The negation of the disjunction is the conjunction of the negations.
 * The negation of the conjunction is the disjunction of the negations.
 
 ### Negation of the disjunction
@@ -263,7 +261,7 @@ The rules can be expressed in English as:
 
 The computer is made of several components and each one of them has a very specific role. There are some components that are mandatory for the computer in order for it to run. These are, motherboard, CPU, RAM, and power supply.
 
-Other components such as the graphics card, storage, and input/output devices are optional, but most of them are recommended. 
+Other components such as the graphics card, storage, and input/output devices are optional, but most of them are recommended.
 
 ## Motherboard
 
@@ -279,23 +277,24 @@ The processor is attached to the motherboard by its socket. Modern processors ar
 
 Originally, CPUs were uni-core but as they started to contain more transistors multi-core designs were becoming possible. The main difference between a uni-core and a multi-core processor is that the multi-core contains more than one processing unit in the same die. All of these processing units share the same main memory.
 
-Modern multi-core processors have between 2 up to 32 cores. However, the most common amount of cores in a modern processor is 4. 
+Modern multi-core processors have between 2 up to 32 cores. However, the most common amount of cores in a modern processor is 4.
 
 ### Multi-threaded
 
 Same as it happened for the multi-core, CPUs started being single-threaded for the same reason as why the multi-core ones appeared. What does it mean for a CPU to be multi-threaded? It means that every core can process more than one stream of work at the same time. But only if they do not use the same resources of the given core.
 
-If you put all these features together you would get a decent picture of a modern CPU. As an example Intel that [i7-11700F](https://www.intel.com/content/www/us/en/products/sku/212280/intel-core-i711700f-processor-16m-cache-up-to-4-90-ghz/specifications.html) has 8 cores with 16 threads and a base frenquency of 2.5GHz and a turbo frenquency of 4.9GHz. Another example would be AMD [Ryzen 7 5800X](https://www.amd.com/en/products/cpu/amd-ryzen-7-5800x) that also has 8 cores with 16 threads but with a base frequency of 3.8GHz and a turbo frequency of 4.7GHz. 
+If you put all these features together you would get a decent picture of a modern CPU. As an example Intel that [i7-11700F](https://www.intel.com/content/www/us/en/products/sku/212280/intel-core-i711700f-processor-16m-cache-up-to-4-90-ghz/specifications.html) has 8 cores with 16 threads and a base frenquency of 2.5GHz and a turbo frenquency of 4.9GHz. Another example would be AMD [Ryzen 7 5800X](https://www.amd.com/en/products/cpu/amd-ryzen-7-5800x) that also has 8 cores with 16 threads but with a base frequency of 3.8GHz and a turbo frequency of 4.7GHz.
 
-## RAM
+## Randon Access Memory (RAM)
+
+Random Access Memory (RAM) stores each bit of data in a memory cell consisting of a tiny capacitor and a transistor. The capacitor can either be charged or discharged; these two states are taken to represent the two values of a bit, conventionally called 0 and 1. Since both the capacitor and the transistor require of constant power to keep the charges, when the computer is shut down the information in the RAM gets lost.
+
+Nowadays, the most common type of RAM it is DDR4, followed by the fading DDR3. The speed of the RAM is measured in Hz, like the CPU. Since they are going to communicate constantly, the faster the RAM the better for the system.
 
 ## Storage
 
 ### Hard Disk Drive (HDD)
 
-#### IDE
-
-#### SATA
 
 ### Solid State Drive (SSD)
 
