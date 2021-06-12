@@ -301,6 +301,10 @@ On the other hand, some older SSD drives have read speeds of 600MB/s, and write 
 
 ## Graphics Card
 
+Most basic graphics processing can be perform by the CPU, however specialized graphics processing such as image manipulation, video processing, video games, or design applications can be too demanding for the general purpose design of the CPU. For those kind of workflows the graphics card is better suited since it has been design and optimized to be extreamly performant for these workflows.
+
+There are two types of graphics cards, the ones that are part of the same die as the CPU, also known as integrated, and the ones that are an individual component that needs to be connected to the motherboard.
+
 ### Integrated
 
 ### Dedicated
