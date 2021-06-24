@@ -311,13 +311,15 @@ There are two types of graphics cards, the ones that are part of the same die as
 
 # System on a Chip (SoC)
 
+System on a Chip is an integrated circuit that integrates all or most components of a computer. These components almost always include a central processing unit (CPU), memory, input/output ports and secondary storage, often alongside other components such as radio modems and a graphics processing unit (GPU) – all on a single substrate or microchip.
+
 ## Raspberry Pi
 
 ## Smartphone
 
 ## Smart TV
 
-## IoT
+## Internet of Things (IoT)
 
 # Internet
 
