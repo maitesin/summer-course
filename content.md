@@ -336,7 +336,13 @@ A smartphone is a portable device that combines mobile telephone and computing f
 
 A smart TV, also known as a connected TV (CTV), is a traditional television set with integrated Internet and interactive Web 2.0 features, which allows users to stream music and videos, browse the internet, and view photos. Smart TVs are a technological convergence of computers, televisions, and digital media players. Besides the traditional functions of television sets provided through traditional broadcasting media, these devices can provide access to over-the-top media services such as streaming television and internet radio, along with home networking access.
 
+In smart TVs, the operating system is preloaded into the television set's firmware, which provides access to apps and other digital content. In contrast, traditional televisions primarily act as displays and are limited to vendor-specific customization. The software applications can be preloaded into the device or updated or installed on demand via an application store or marketplace, in a similar manner to how applications are integrated into modern smartphones.
+
 ## Raspberry Pi
+
+The Raspberry Pi is a series of single-board computers. They are low-cost, high-performance and the size of a credit card. The Raspberry Pi was developed in the UK by the Raspberry Pi Foundation. Many people have used Raspberry Pis to make things like cameras, video game consoles, robots, web servers and media centres. It is widely used in many areas, such as for weather monitoring, because of its low cost, modularity, and open design. It is typically used by computer and electronic hobbyists, due to its adoption of HDMI and USB devices.  
+
+![](img/soc/raspberry.jpg)
 
 ## Internet of Things (IoT)
 
