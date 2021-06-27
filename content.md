@@ -356,8 +356,40 @@ Things have evolved due to the convergence of multiple technologies, real-time a
 
 # Information Security
 
-## VPN
+Information security, sometimes shortened to infosec, is the practice of protecting information by mitigating information risks. It is part of information risk management. It typically involves preventing or reducing the probability of unauthorized/inappropriate access to data, or the unlawful use, disclosure, disruption, deletion, corruption, modification, inspection, recording, or devaluation of information.
 
-## Dangers of Open Networks
+## Virtual Private Network (VPN)
 
-## Backups
+A virtual private network (VPN) extends a private network across a public network and enables users to send and receive data across shared or public networks as if their computing devices were directly connected to the private network. Applications running across a VPN may therefore benefit from the functionality, security, and management of the private network. It provides access to resources that may be inaccessible on the public network, and is typically used for telecommuting workers. Encryption is a common, although not an inherent, part of a VPN connection.
+
+A VPN is created by establishing a virtual point-to-point connection through the use of dedicated circuits or with tunneling protocols over existing networks. A VPN available from the public Internet can provide some of the benefits of a wide area network (WAN). From a user perspective, the resources available within the private network can be accessed remotely.
+
+## Dangers of Public WiFi and Open Networks
+
+Public WiFi networks and Open Networks are everywhere in this day and age, and pretty much every business such as coffee shops, hotels or supermarkets will have one. For many of us, asking for the WiFi password may be the first thing we do when we sit down for a bite to eat, and although this is certainly convenient, the dangers of public WiFi are not to be underestimated.
+
+There are many risks associated with unsecured or public WiFi networks. Even if the network in question is a secure public WiFi hotspot, if all you need to do is ask one of the employees for the password, then anyone who wants access can get in anyway. With this access, there are numerous ways for cybercriminals to take advantage of unsuspecting users who are simply looking to browse the web, mostly in the form of what is known as “man-in-the-middle” attacks.
+
+Generally, attacks that take advantage of poor public WiFi security fall under the category of man-in-the-middle attacks. This means pretty much exactly what it sounds like, with the attacker positioned between you and the server you are trying to access, with you none the wiser.
+
+This allows the attacker to capture all of your traffic, which they can use to steal your personal information, swipe payment details, such as credit cards, and even manipulate the data packages to install malware or spyware on your device.
+
+Unfortunately, cybercriminals operating on legitimate WiFi hotspots is only one of the possible risks you face when using a public connection.
+
+An even bigger risk to your safety is malicious hotspots set up to trick you into connecting to them. This is usually done by creating an unsecured hotspot with the name of a nearby business, such as a restaurant, café or hotel, which users will then connect to, blissfully unaware of the danger.
+
+You’ll be able to occasionally protect yourself from this scenario by always asking the employees of the business if the WiFi hotspot is legitimate, but there’s no guarantee that they’ll even be aware of the imposter. In fact, the employees of the business may even be using the compromised WiFi network without knowing that anything is amiss.
+
+Because in this scenario the attacker has full control over the hotspot, they have many more avenues of attack, such as serving you malicious ads that carry spyware or malware, replacing the website you want to visit with an entirely fake one and gathering any credentials you enter for various services.
+
+When it comes down to it, there’s really only one good way of ensuring you’re safe while using a public WiFi network, and that’s by using a virtual private network, or VPN for short. A VPN protects you by creating a “tunnel” for all your traffic, which is protected by end-to-end encryption.
+
+## Backup
+
+In information technology, a backup, or data backup is a copy of computer data taken and stored elsewhere so that it may be used to restore the original after a data loss event. The verb form, referring to the process of doing so, is "back up", whereas the noun and adjective form is "backup".
+
+Backups are usually done for one of the following reasons:
+
+* Prevent data loss if there is a disaster (like a fire or hardware failure, or an intentional or unintentional deletion)
+* Computer viruses or other programs make data unusable
+* Sudden computer shutdown which can be caused by power shortage.
