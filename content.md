@@ -267,11 +267,15 @@ Other components such as the graphics card, storage, and input/output devices ar
 
 The motherboard, also called mainboard, is the main printed circuit board (PCB) in general-purpose computers and other expandable systems. It holds and allows communication between many of the crucial electronic components of a system, such as the central processing unit (CPU) and memory, and provides connectors for other peripherals. A motherboard usually contains significant sub-systems, such as the central processor, the chipset's input/output and memory controllers, interface connectors, and other components integrated for general use.
 
+![](img/computer/motherboard.jpg)
+
 ## Central Processing Unit (CPU)
 
 The central processing unit (CPU), also known as processor, is the brain of the computer. It can have multiple cores and handle even more threads. The speed of a processor is measured in Hertz (Hz). The Hertz is the derived unit of frequency in the International System of Units (SI) and is defined as one cycle per second.
 
 The processor is attached to the motherboard by its socket. Modern processors are multi-core and multi-threaded with frequencies ranging between 3GHz up to 5GHz. Some of them even have a technology called turbo-boost, that allows them to increase their frenquency for small periods of time when a sudden increase of work happens.
+
+![](img/computer/cpu.jpg)
 
 ### Multi-core
 
@@ -291,6 +295,8 @@ Random Access Memory (RAM) stores each bit of data in a memory cell consisting o
 
 Nowadays, the most common type of RAM it is DDR4, followed by the fading DDR3. The speed of the RAM is measured in Hz, like the CPU. Since they are going to communicate constantly, the faster the RAM the better for the system.
 
+![](img/computer/ram.jpg)
+
 ## Storage
 
 There are multiple kinds of storage available, however the most common ones are Hard Disk Drive (HDD), and Solid State Drive (SSD). HDD are mechanical hard drives that can store a lot of information, but their read/write speeds are quite slow. On the contrary, SSD are flash memory based hard drives that can store smaller amounts of information, but their read/write speeds are extreamly fast compared with HDD.
@@ -298,6 +304,9 @@ There are multiple kinds of storage available, however the most common ones are 
 On the one hand, modern HDD drives have read speeds of 80MB/s, and write speeds of 20MB/s. Therefore, they use SATA connections since they have a limit of transfers of up to 300MB/s in the SATA 2.0 standard.
 
 On the other hand, some older SSD drives have read speeds of 600MB/s, and write speeds of 250MB/s. So, they can also use the SATA 3.0 standard. However, modern SSD drives use M.2 connections that allows them to reach read speeds of 3400MB/s, and write speeds of 2500MB/s.
+
+
+![](img/computer/storage.jpg)
 
 ## Graphics Card
 
@@ -309,15 +318,25 @@ There are two types of graphics cards, the ones that are part of the same die as
 
 ### Dedicated
 
+![](img/computer/gpu.jpg)
+
 # System on a Chip (SoC)
 
 System on a Chip is an integrated circuit that integrates all or most components of a computer. These components almost always include a central processing unit (CPU), memory, input/output ports and secondary storage, often alongside other components such as radio modems and a graphics processing unit (GPU) – all on a single substrate or microchip.
 
-## Raspberry Pi
-
 ## Smartphone
 
+A smartphone is a portable device that combines mobile telephone and computing functions into one unit. They are distinguished from feature phones by their stronger hardware capabilities and extensive mobile operating systems, which facilitate wider software, internet (including web browsing over mobile broadband), and multimedia functionality (including music, video, cameras, and gaming), alongside core phone functions such as voice calls and text messaging.
+
+![](img/soc/smartphone1.jpg)
+
+![](img/soc/smartphone2.jpg)
+
 ## Smart TV
+
+A smart TV, also known as a connected TV (CTV), is a traditional television set with integrated Internet and interactive Web 2.0 features, which allows users to stream music and videos, browse the internet, and view photos. Smart TVs are a technological convergence of computers, televisions, and digital media players. Besides the traditional functions of television sets provided through traditional broadcasting media, these devices can provide access to over-the-top media services such as streaming television and internet radio, along with home networking access.
+
+## Raspberry Pi
 
 ## Internet of Things (IoT)
 
@@ -339,4 +358,4 @@ System on a Chip is an integrated circuit that integrates all or most components
 
 ## Dangers of Open Networks
 
-## Backup strategies
+## Backups
