@@ -308,15 +308,19 @@ On the other hand, some older SSD drives have read speeds of 600MB/s, and write 
 
 ![](img/computer/storage.jpg)
 
-## Graphics Card
+## Graphics Processing Unit (GPU)
 
-Most basic graphics processing can be perform by the CPU, however specialized graphics processing such as image manipulation, video processing, video games, or design applications can be too demanding for the general purpose design of the CPU. For those kind of workflows the graphics card is better suited since it has been design and optimized to be extreamly performant for these workflows.
+Most basic graphics processing can be perform by the CPU, however specialized graphics processing such as image manipulation, video processing, video games, or design applications can be too demanding for the general purpose design of the CPU. For those kind of workflows the graphics processing unit (GPU) is better suited since it has been design and optimized to be extreamly performant for these workflows.
 
-There are two types of graphics cards, the ones that are part of the same die as the CPU, also known as integrated, and the ones that are an individual component that needs to be connected to the motherboard.
+There are two types of graphics processing units, the ones that are part of the same die as the CPU, also known as integrated, and the ones that are an individual component that needs to be connected to the motherboard.
 
 ### Integrated
 
+Integrated graphics processing unit (IGPU), Integrated graphics, shared graphics solutions, integrated graphics processors (IGP) or unified memory architecture (UMA) utilize a portion of a computer's system RAM rather than dedicated graphics memory. IGPs can be integrated onto the motherboard as part of the (northbridge) chipset, or on the same die (integrated circuit) with the CPU (like AMD APU or Intel HD Graphics).
+
 ### Dedicated
+
+The GPUs of the most powerful class typically interface with the motherboard by means of an expansion slot such as PCI Express (PCIe) or Accelerated Graphics Port (AGP) and can usually be replaced or upgraded with relative ease, assuming the motherboard is capable of supporting the upgrade.
 
 ![](img/computer/gpu.jpg)
 
