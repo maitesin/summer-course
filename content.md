@@ -289,7 +289,7 @@ Same as it happened for the multi-core, CPUs started being single-threaded for t
 
 If you put all these features together you would get a decent picture of a modern CPU. As an example Intel that [i7-11700F](https://www.intel.com/content/www/us/en/products/sku/212280/intel-core-i711700f-processor-16m-cache-up-to-4-90-ghz/specifications.html) has 8 cores with 16 threads and a base frenquency of 2.5GHz and a turbo frenquency of 4.9GHz. Another example would be AMD [Ryzen 7 5800X](https://www.amd.com/en/products/cpu/amd-ryzen-7-5800x) that also has 8 cores with 16 threads but with a base frequency of 3.8GHz and a turbo frequency of 4.7GHz.
 
-## Randon Access Memory (RAM)
+## Random Access Memory (RAM)
 
 Random Access Memory (RAM) stores each bit of data in a memory cell consisting of a tiny capacitor and a transistor. The capacitor can either be charged or discharged; these two states are taken to represent the two values of a bit, conventionally called 0 and 1. Since both the capacitor and the transistor require of constant power to keep the charges, when the computer is shut down the information in the RAM gets lost.
 
@@ -323,6 +323,12 @@ Integrated graphics processing unit (IGPU), Integrated graphics, shared graphics
 The GPUs of the most powerful class typically interface with the motherboard by means of an expansion slot such as PCI Express (PCIe) or Accelerated Graphics Port (AGP) and can usually be replaced or upgraded with relative ease, assuming the motherboard is capable of supporting the upgrade.
 
 ![](img/computer/gpu.jpg)
+
+## Exercises
+
+1. What is the primary use of the GPU?
+1. Which component is in charge of performing calculation?
+1. Which kind of storage is meant for storing big amounts of data? And to store data that you need to access really fast?
 
 # System on a Chip (SoC)
 
