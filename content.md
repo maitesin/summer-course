@@ -158,6 +158,10 @@ For example, 3000 bytes (or 3000B) can be expressed as 3KB or 5600000B can be al
 
 ## Exercises
 
+1. Which is the decimal representations of the binary numbers 1010, 1111, 11111, 11011, and 00110011?
+1. Which is the binary representations of the decimal numbers 45, 765, 12, 67, and 99? And their octal representations? And their hexadecimal representations?
+1. Write the text `Hello, World!` in binary. 
+
 # Boolean algebra
 
 Boolean algebra is the branch of algebra in which the values of the variables are the truth values true and false, usually denoted 1 and 0, respectively.
