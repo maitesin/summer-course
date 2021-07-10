@@ -127,13 +127,13 @@ As it was explained before, computers only understand binary information, but fo
 
 The ASCII table is a set of symbols that have a unique value of 7 bits assigned to it. That way you can use a bit less than a byte, pun intended, to represent all the english alphabet and other required symbols.
 
-![](img/ascii.png)
+![](img/ascii/basic.png)
 
 ### Extended ASCII
 
 Since the ASCII table is limited to only characters of the english alphabet, it does not contain vowels with tildes, and other special characters. They were was introduced in the **Extended ASCII table**. It uses 8 bits to represent the symbols, that means it actually doubles the amount of symbols contained in the table.
 
-![](img/eascii.png)
+![](img/ascii/extended.png)
 
 ## Unicode
 
