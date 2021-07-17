@@ -143,7 +143,7 @@ The standard that covers all previous alphabets and have room left for future ex
 
 ## SI Prefixes
 
-Although we have been talking about bites and bytes, when storing big amounts of data they becomes unsustainable to describe the size of the information in them. That is when the Metric's System prefixes become useful.
+Although we have been talking about bites and bytes, when storing big amounts of data it becomes unsustainable to describe the size of the information in them. That is when the Metric's System prefixes become useful.
 
 | Prefix Name | Prefix Symbol | Base 10 |
 |:-:|:-:|:-:|
@@ -160,7 +160,7 @@ For example, 3000 bytes (or 3000B) can be expressed as 3KB or 5600000B can be al
 
 1. Which is the decimal representations of the binary numbers 1010, 1111, 11111, 11011, and 00110011?
 1. Which is the binary representations of the decimal numbers 45, 765, 12, 67, and 99? And their octal representations? And their hexadecimal representations?
-1. Write the text `Hello, World!` in binary. 
+1. Encode the text `Hello, World!` in binary. 
 
 # Boolean algebra
 
