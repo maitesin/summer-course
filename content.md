@@ -261,6 +261,20 @@ The rules can be expressed in English as:
 
 ## Exercises
 
+1. Calculate the truth table for the `Y` on the following circuit:
+
+![](img/logic/exercises/1.png){ width=60% }
+
+2. Calculate the truth table for the `Y` on the following circuit:
+
+![](img/logic/exercises/2.png){ width=60% }
+
+3. Calculate the truth table for the `Y` on the following circuit:
+
+![](img/logic/exercises/3.png){ width=60% }
+
+4. Design the circuit for the logic gates `and`, `or` ,`not`, `xor`, and `nor` just using `nand` gates.
+
 # Computer components
 
 The computer is made of several components and each one of them has a very specific role. There are some components that are mandatory for the computer in order for it to run. These are, motherboard, CPU, RAM, and power supply.
